@@ -1,0 +1,72 @@
+{
+  "@@locale": "sw",
+  
+  "appName": "SwiftWallet",
+  "home": "Nyumbani",
+  "reports": "Ripoti",
+  "budget": "Bajeti",
+  "settings": "Mipangilio",
+  
+  "totalBalance": "Jumla ya Salio",
+  "totalIncome": "Jumla ya Mapato",
+  "totalExpenses": "Jumla ya Matumizi",
+  
+  "recentExpenses": "Matumizi ya Hivi Karibuni",
+  "noRecentExpenses": "Hakuna matumizi ya hivi karibuni",
+  
+  "addExpense": "Ongeza Matumizi",
+  "editExpense": "Hariri Matumizi",
+  "deleteExpense": "Futa Matumizi",
+  
+  "category": "Jamii",
+  "amount": "Kiasi",
+  "date": "Tarehe",
+  "description": "Maelezo",
+  
+  "save": "Hifadhi",
+  "cancel": "Ghairi",
+  "delete": "Futa",
+  
+  "expenseReports": "Ripoti za Matumizi",
+  "spendingByCategory": "Matumizi kwa Jamii",
+  "monthlySpending": "Matumizi ya Kila Mwezi",
+  "exportReports": "Hamisha Ripoti",
+  "exportToCSV": "Hamisha kwa CSV",
+  "exportToPDF": "Hamisha kwa PDF",
+  "noDataAvailable": "Hakuna data inayopatikana",
+  "spending": "Matumizi",
+  
+  "monthlyBudget": "Bajeti ya Kila Mwezi",
+  "setMonthlyBudget": "Weka Bajeti ya Kila Mwezi",
+  "currentSpending": "Matumizi ya Sasa",
+  "remaining": "Inayobaki",
+  "saveBudget": "Hifadhi Bajeti",
+  "budgetExceeded": "Bajeti imezidiwa!",
+  "budgetTips": "Vidokezo vya Ubajeti",
+  "tip1": "Fuatilia matumizi yako yote ili kuelewa tabia zako za matumizi",
+  "tip2": "Weka mipaka ya bajeti inayofaa kwa kila jamii",
+  "tip3": "Pitia bajeti yako kila mwezi ili kurekebisha mabadiliko",
+  
+  "appearance": "Mwonekano",
+  "darkMode": "Hali ya Giza",
+  "language": "Lugha",
+  "currency": "Sarafu",
+  "account": "Akaunti",
+  "logout": "Toka",
+  "logoutConfirm": "Je, una uhakika unataka kutoka?",
+  
+  "error": "Hitilafu",
+  "exportError": "Imeshindwa kuhamisha ripoti. Tafadhali jaribu tena.",
+  "deleteConfirm": "Je, una uhakika unataka kufuta matumizi haya?",
+  "deleteSuccess": "Matumizi yamefutwa kwa mafanikio",
+  "saveSuccess": "Matumizi yamehifadhiwa kwa mafanikio",
+  "budgetSaveSuccess": "Bajeti imehifadhiwa kwa mafanikio",
+  
+  "food": "Chakula",
+  "transportation": "Usafiri",
+  "entertainment": "Burudani",
+  "utilities": "Huduma",
+  "healthcare": "Afya",
+  "shopping": "Ununuzi",
+  "other": "Nyingine"
+}

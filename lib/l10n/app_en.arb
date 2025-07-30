@@ -1,0 +1,72 @@
+{
+  "@@locale": "en",
+  
+  "appName": "SwiftWallet",
+  "home": "Home",
+  "reports": "Reports",
+  "budget": "Budget",
+  "settings": "Settings",
+  
+  "totalBalance": "Total Balance",
+  "totalIncome": "Total Income",
+  "totalExpenses": "Total Expenses",
+  
+  "recentExpenses": "Recent Expenses",
+  "noRecentExpenses": "No recent expenses",
+  
+  "addExpense": "Add Expense",
+  "editExpense": "Edit Expense",
+  "deleteExpense": "Delete Expense",
+  
+  "category": "Category",
+  "amount": "Amount",
+  "date": "Date",
+  "description": "Description",
+  
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  
+  "expenseReports": "Expense Reports",
+  "spendingByCategory": "Spending by Category",
+  "monthlySpending": "Monthly Spending",
+  "exportReports": "Export Reports",
+  "exportToCSV": "Export to CSV",
+  "exportToPDF": "Export to PDF",
+  "noDataAvailable": "No data available",
+  "spending": "Spending",
+  
+  "monthlyBudget": "Monthly Budget",
+  "setMonthlyBudget": "Set Monthly Budget",
+  "currentSpending": "Current Spending",
+  "remaining": "Remaining",
+  "saveBudget": "Save Budget",
+  "budgetExceeded": "Budget exceeded!",
+  "budgetTips": "Budgeting Tips",
+  "tip1": "Track all your expenses to understand your spending habits",
+  "tip2": "Set realistic budget limits for each category",
+  "tip3": "Review your budget monthly to adjust for changes",
+  
+  "appearance": "Appearance",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "currency": "Currency",
+  "account": "Account",
+  "logout": "Logout",
+  "logoutConfirm": "Are you sure you want to logout?",
+  
+  "error": "Error",
+  "exportError": "Failed to export report. Please try again.",
+  "deleteConfirm": "Are you sure you want to delete this expense?",
+  "deleteSuccess": "Expense deleted successfully",
+  "saveSuccess": "Expense saved successfully",
+  "budgetSaveSuccess": "Budget saved successfully",
+  
+  "food": "Food",
+  "transportation": "Transportation",
+  "entertainment": "Entertainment",
+  "utilities": "Utilities",
+  "healthcare": "Healthcare",
+  "shopping": "Shopping",
+  "other": "Other"
+}
